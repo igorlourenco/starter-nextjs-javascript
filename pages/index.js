@@ -1,5 +1,8 @@
+import React from "react";
+import {Heading} from "@chakra-ui/core";
+
 export default function Home() {
   return (
-    <h1>Template Básico</h1>
+    <Heading> Template Básico </Heading>
   )
 }
