@@ -1,8 +1,8 @@
 import React from "react";
-import {Heading} from "@chakra-ui/core";
+import { Text } from "@chakra-ui/core";
 
 export default function Main() {
     return (
-        <Heading> Template Básico </Heading>
+        <Text> Esse é o template inicial para aplicações Next.js </Text>
     )
 }
