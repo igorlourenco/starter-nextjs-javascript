@@ -4,7 +4,8 @@ Todo mundo tem aquelas bibliotecas que sempre usa em, todos os projetos, e toooo
 
 As bibliotecas do template, por enquanto, são essas:
 
-[Chakra UI](https://chakra-ui.com/): design system bem fácil de usar que instalo em todos os meus projetos. Já tem muita coisa configurada (cores, temas, fontes, breakpoints etc) e ainda tem vários componentes já prontos. Facilita muito.
+* [Chakra UI](https://chakra-ui.com/): design system bem fácil de usar que instalo em todos os meus projetos. Já tem muita coisa configurada (cores, temas, fontes, breakpoints etc) e ainda tem vários componentes já prontos. Facilita muito;
+* [Framer Motion](https://www.framer.com/api/motion/): biblioteca de animação de componentes e detecção de gestos, para deixar a aplicação mais bonita e usável.
 
 
 ---
