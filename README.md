@@ -1,13 +1,17 @@
-### ⚡ Template Inicial Next.js
+### ⚡ React with JavaScript - Starter template 
 
-Todo mundo tem aquelas bibliotecas que sempre usa em, todos os projetos, e tooooda vez que cria uma coisa nova, tem que baixar tudo de novo. Criei esse template de projeto Next.js para poupar trabalho e tempo. Apenas clono esse template como um novo projeto, instalo as bibliotecas já baixadas e começo a "codar". 
-
-As bibliotecas do template, por enquanto, são essas:
-
-* [Chakra UI](https://chakra-ui.com/): design system bem fácil de usar que instalo em todos os meus projetos. Já tem muita coisa configurada (cores, temas, fontes, breakpoints etc) e ainda tem vários componentes já prontos. Facilita muito;
-* [Framer Motion](https://www.framer.com/api/motion/): biblioteca de animação de componentes e detecção de gestos, para deixar a aplicação mais bonita e usável.
-
+**Starter template for all of my JavaScript projects. Build with Next.js.**
 
 ---
 
-Feito com ❤️ e JavaScript por Igor Lourenço
+##### Techologies used:
+
+* [JavaScript](https://www.javascript.com/): programming language used in the project. The life of web applications;
+* [ReactJS](https://pt-br.reactjs.org/): JavaScript library used to build web applications;
+* [Next.js](http://nextjs.org/): it is a framework from [ReactJS](https://pt-br.reactjs.org/) that I use to build my projects;
+* [Chakra UI](https://chakra-ui.com/): as a design system for building interface elements and styling components;
+* [Framer Motion](https://www.framer.com/motion/): API used to animate interface components.
+
+---
+
+Made With ❤️ & JavaScript by Igor Lourenço
